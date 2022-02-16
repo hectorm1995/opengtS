@@ -1,1 +1,5 @@
 sudo apt-get install openjdk-8-jre
+sudo apt-get install openjdk-8-jdk
+sudo apt-get install ant
+sudo apt-get update
+sudo add-apt-repository ppa:linuxuprising/java
